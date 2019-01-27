@@ -1,0 +1,8 @@
+/home/akshay/Desktop/pipenetwork/CMakeFiles/install/strip.dir
+/home/akshay/Desktop/pipenetwork/CMakeFiles/install/local.dir
+/home/akshay/Desktop/pipenetwork/CMakeFiles/rebuild_cache.dir
+/home/akshay/Desktop/pipenetwork/CMakeFiles/linalg.dir
+/home/akshay/Desktop/pipenetwork/CMakeFiles/edit_cache.dir
+/home/akshay/Desktop/pipenetwork/CMakeFiles/linalg_testrunner.dir
+/home/akshay/Desktop/pipenetwork/CMakeFiles/list_install_components.dir
+/home/akshay/Desktop/pipenetwork/CMakeFiles/install.dir
